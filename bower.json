@@ -1,6 +1,6 @@
 {
   "name": "angular-papaparse",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "dependencies": {
     "angular": ">1.2.0",
     "papaparse": "*"
