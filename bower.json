@@ -1,0 +1,52 @@
+{
+  "name": "angular-papaparse",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": ">1.2.0",
+    "papaparse": "*"
+  },
+  "devDependencies": {
+    "angular-mocks": ">1.2.0"
+  },
+  "main": [
+    "dist/js/angular-PapaParse.js"
+  ],
+  "appPath": "src",
+  "authors": [
+    "steve mao <maochenyan@gmail.com>"
+  ],
+  "description": "angular-PapaParse is an Angular factory wrapper for PapaParse (https://github.com/mholt/PapaParse)",
+  "keywords": [
+    "angular",
+    "wrapper",
+    "csv",
+    "parser",
+    "parse",
+    "parsing",
+    "delimited",
+    "text",
+    "data",
+    "auto-detect",
+    "comma",
+    "tab",
+    "pipe",
+    "file",
+    "filereader",
+    "stream",
+    "worker",
+    "workers",
+    "thread",
+    "threading",
+    "multi-threaded"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/stevemao/angular-PapaParse",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
